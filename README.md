@@ -1,4 +1,4 @@
-## My pagedown rendered CV
+## Geoff Hutchinson's rendered CV
 
 __Switch to googlesheets__
 
